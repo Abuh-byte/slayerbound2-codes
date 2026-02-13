@@ -1,0 +1,50 @@
+[
+  {
+    "code": "morespins",
+    "reward": "+20 Spins",
+    "active": true,
+    "createdAt": "2026-02-12"
+  },
+  {
+    "code": "1KLIKES",
+    "reward": "Breathing/Race Reset",
+    "active": true,
+    "createdAt": "2026-02-12"
+  },
+  {
+    "code": "GOSLAYERBOUND",
+    "reward": "+20 Spins",
+    "active": true,
+    "createdAt": "2026-02-12"
+  },
+  {
+    "code": "YOKO",
+    "reward": "+5 Spins",
+    "active": true,
+    "createdAt": "2026-02-12"
+  },
+  {
+    "code": "datafix",
+    "reward": "+20 Spins",
+    "active": true,
+    "createdAt": "2026-02-12"
+  },
+  {
+    "code": "thxfor5k",
+    "reward": "+50 Spins",
+    "active": true,
+    "createdAt": "2026-02-12"
+  },
+  {
+    "code": "1MVISITS",
+    "reward": "Reset Stats",
+    "active": true,
+    "createdAt": "2026-02-12"
+  },
+  {
+    "code": "PEAKPLAYERS",
+    "reward": "Reset Race/Style",
+    "active": true,
+    "createdAt": "2026-02-12"
+  }
+]
